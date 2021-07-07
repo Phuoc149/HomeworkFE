@@ -76,3 +76,5 @@
 //   return max;
 // }
 // console.log(Max(array, temp, max));
+
+// console.log();
