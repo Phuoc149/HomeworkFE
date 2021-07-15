@@ -1,0 +1,86 @@
+.tab1 {
+	width: 250px;
+	height: 150px;
+	background-color: black;
+	color: white;
+	font-size: 30px;
+	margin-top: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.tab2-2 {
+	padding: 5px 0;
+
+}
+
+.textarea {
+	/* width: 100px; */
+}
+
+.tab2-4 {
+
+	display: flex;
+	align-items: center;
+}
+
+.btt {
+
+	height: 30px;
+}
+
+.tab3-1 {
+	width: 190px;
+	height: 50px;
+	background-color: rgb(94, 71, 199);
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 25px;
+}
+
+.tab4-1 {
+	padding: 5px 0;
+
+}
+
+.tab4-2 {
+	padding: 5px 0;
+}
+
+.tab4-3 {
+	padding: 5px 0;
+}
+
+.tab4-4 {
+	padding: 5px 0;
+}
+
+textarea {
+	width: 350px;
+	height: 100px;
+}
+
+.tab5-1 {
+	width: 250px;
+	height: 170px;
+	font-size: 20px;
+	background-color: rgb(75, 116, 190);
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.tab5-2 {
+	width: 100px;
+	height: 100px;
+	background-color: rgb(169, 126, 190);
+	font-size: 60px;
+	display: flex;
+	color: white;
+	justify-content: center;
+	align-items: center;
+}
