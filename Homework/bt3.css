@@ -1,0 +1,40 @@
+.body {}
+
+.container {
+	margin: 20px;
+}
+
+.rec {
+	display: flex;
+	margin: 20px;
+}
+
+.box {
+	background-color: blueviolet;
+	max-width: 300px;
+	min-width: 100px;
+	width: 100px;
+	height: 100px;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 80px;
+	margin: auto;
+	text-align: center;
+	border-radius: 9px;
+}
+
+.title1 {
+	width: 300px;
+	font-family: Arial, Helvetica, sans-serif
+}
+
+.text {
+	margin-left: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-top: -10px;
+}
+
+.text1 {
+	color: gray;
+	font-family: Arial, Helvetica, sans-serif;
+}
