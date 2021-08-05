@@ -1,0 +1,28 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.container {
+	display: flex;
+	justify-content: space-around;
+	margin-top: 5px;
+
+}
+
+#box1 {
+	width: 150px;
+	height: 150px;
+	background-color: orangered
+}
+
+.display {
+	display: none;
+}
+
+#box2 {
+	width: 150px;
+	height: 150px;
+
+}
